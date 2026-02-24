@@ -1,0 +1,2 @@
+boto3
+# tkinter  # it must be installed in the system
